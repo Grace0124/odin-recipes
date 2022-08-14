@@ -1,2 +1,5 @@
 # odin-recipes
-Recipe Website as part of The Odin Project curriculum
+Current Project: recipe website as part of The Odin Project curriculum
+
+Skills Demonstrated:
+
